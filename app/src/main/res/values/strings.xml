@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meal Ingredient Detector</string>
+    <string name="tv_take_photo">Take photo</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="tv_description">Select an image or take a new photo</string>
+    <string name="tv_placeholder">Ingredient detector</string>
+    </resources>
